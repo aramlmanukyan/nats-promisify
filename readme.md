@@ -56,3 +56,7 @@ If you encounter any bugs or issues, feel free to open an issue at <a href="http
 Copyright © 2019, Aram Manukyan.
 
 All rights reserved.
+
+## Keywords
+
+NATS, nats-promisify, nats broker, microservices
